@@ -1,2 +1,2 @@
-#users phone numbegr
-number = "+254731754198"
+#input your number
+number = ""
